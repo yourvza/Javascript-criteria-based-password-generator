@@ -20,3 +20,6 @@ Please refer to the LICENSE in the repo
 
 ## Link
 
+
+
+![password generator](https://github.com/yourvza/Javascript-criteria-based-password-generator/assets/155742735/1d2384d0-830e-4f12-8192-abf05c55c4b6)
